@@ -20,9 +20,9 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Commonplacing-Examples
+title: Examples of commonplace notebooks
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a collection of commonplace notebooks from the 12th century to the 21st century
+tagline: a collection of commonplace notebooks throughout history
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
